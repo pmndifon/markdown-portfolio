@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+Patrick Ndifon
+## Markdown Header
+I added my name to file as a header.
