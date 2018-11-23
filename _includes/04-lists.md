@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+- :smile:
+- Types of list
+   * Ordered List
+   * Unordered List
