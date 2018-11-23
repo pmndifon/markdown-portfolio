@@ -15,7 +15,10 @@ layout: default
 <br>
 
 {% include 04-lists.md %}
-
+1. :smile:
+2. Types of list
+   * Ordered List
+   * Unordered List
 <br>
 
 {% include 05-emphasis.md %}
